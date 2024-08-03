@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning back-end technologies to complement my full-stack expertise.<br>👯 I’m looking to collaborate on exciting web development projects that push boundaries and solve real-world problems.<br>🤔 I’m looking for help with mastering advanced back-end concepts and techniques.<br>💬 Ask me about anything related to full-stack web development, from front-end frameworks like React to back-end technologies like Node.js.<br>📫 How to reach me: You can connect with me via email or on LinkedIn.<br>⚡ Fun fact: I've written so many lines of code that if you laid them out end to end, they'd reach the moon and back – twice.
+👯 I’m looking to collaborate on exciting web development projects that push boundaries and solve real-world problems.<br>🤔 I’m looking for help with mastering advanced back-end concepts and techniques.<br>💬 Ask me about anything related to full-stack web development, from front-end frameworks like React to back-end technologies like Node.js.<br>📫 How to reach me: You can connect with me via email or on LinkedIn.<br>⚡ Fun fact: I've written so many lines of code that if you laid them out end to end, they'd reach the moon and back – twice.
 
 
 ## 🌐 Socials:
